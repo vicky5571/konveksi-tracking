@@ -142,12 +142,6 @@ Right Click → Open with Live Server
 * Upload Foto Progress Produksi
 * Tracking Real-Time
 
-## 👨‍💻 Developer
-
-**Fitra Mustofa**
-
-* GitHub: https://github.com/Topan03
-
 ## 📄 License
 
 Project ini dibuat untuk kebutuhan pembelajaran, tugas akhir, dan pengembangan sistem manajemen produksi konveksi.
